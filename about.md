@@ -25,9 +25,21 @@ titles:
   # @end locale config
 key: page-about
 ---
+<p>
 133 Class Affairs Navigation
+</p>
+<p>
 133班的班级公共事务网址导航站
+</p>
+<p>
 
+</p>
 上报网站错误和您的宝贵意见
+<p>
 提交接入申请、发布页面申请
-请联系网站管理员 Techy Wu
+</p>
+<p>
+请点击页面底部邮件图标联系网站管理员
+</p>
+
+
