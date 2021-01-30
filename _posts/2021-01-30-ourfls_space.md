@@ -7,4 +7,8 @@ tags: 推广
 
 <!--more-->
 
-<a href="http://ourfls.space" >链接: http://ourfls.space</a>
+<a href="http://ourfls.space" >主页: http://ourfls.space</a>
+<br />
+<a href="http://ourfls.space/explore/recent" >最近图片；</a>
+<a href="http://ourfls.space/explore/trending" >热门图片；</a>
+<a href="http://ourfls.space/?random" >随机图片；</a>
