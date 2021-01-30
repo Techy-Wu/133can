@@ -38,4 +38,7 @@ key: page-about
 请点击页面底部媒体图标联系网站管理员
 </p>
 
+如果你喜欢本站，别忘了点亮小星星
+[![Star This Project](https://img.shields.io/github/stars/techy-wu/133can.svg?label=Stars&style=social)](https://github.com/techy-wu/133can/)
+
 
