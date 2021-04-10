@@ -7,7 +7,7 @@ tags: 推广
 
 <!--more-->
 
-<a href="https://techy-wu.github.io/unlock-music/" >链接: https://music_unlock.techywu.xyz</a>
+<a href="http://music_unlock.techywu.top/" >链接: https://music_unlock.techywu.top</a>
 <br />
 <p>
  目前支持网易云音乐(ncm), QQ音乐(qmc, mflac, mgg), 酷狗音乐(kgm), 虾米音乐(xm), 酷我音乐(.kwm) 
