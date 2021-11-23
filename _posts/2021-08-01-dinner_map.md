@@ -12,9 +12,9 @@ tags: 媒体
 ![-4k.md.png](https://pic.techywu.top/images/2021/11/22/-4k.md.png)
 
 <p>
-    <a href="https://pic.techywu.top/images/2021/11/22/-4k.png" download="-4k.png">下载原图</a>
+    <a href="https://pic.techywu.top/images/2021/11/22/-4k.png" download="4k.png">下载原图</a>
     <a>(4.9MB)</a>
     <a> </a>
-    <a href="https://pic.techywu.top/images/2021/11/22/-4k.png" download="w3logo">下载PSD无损工程图</a>
+    <a href="https://pic.techywu.top/download/4k.psd" download="4k.psd">下载PSD无损工程图</a>
     <a>(77.8MB)</a>
 </p>
