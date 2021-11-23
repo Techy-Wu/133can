@@ -9,8 +9,12 @@ tags: 媒体
 
 **注意：此图片已经在2021.8.2，11:50进行更新，若之前有下载请及时覆盖下载更新本地文件**
 
-[![-4k.png](https://pic.techywu.top/images/2021/11/22/-4k.png)](https://pic.techywu.top/image/mBnW)
+![-4k.md.png](https://pic.techywu.top/images/2021/11/22/-4k.md.png)
 
-
-[下载原图](https://github.com/Techy-Wu/videos/releases/download/0.1/4k.png)
-[下载PSD无损图](https://github.com/Techy-Wu/videos/releases/download/0.1/4k.psd)
+<p>
+    <a href="https://pic.techywu.top/images/2021/11/22/-4k.png" download="w3logo">下载原图</a>
+    <a>(4.9MB)</a>
+    <a> </a>
+    <a href="https://pic.techywu.top/images/2021/11/22/-4k.png" download="w3logo">下载PSD无损工程图</a>
+    <a>(77.8MB)</a>
+</p>
